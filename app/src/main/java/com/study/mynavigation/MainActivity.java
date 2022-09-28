@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.e("wxw","000000");
+        Log.e("wxw","000000");//在服务器上更改的
     }
 
     @Override

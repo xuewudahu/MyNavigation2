@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         Log.e("wxw","000000");
         Log.e("wxw","000000");//在服务器上更改的
         Log.e("wxw","000000");//在服务器上的分支Fixbug更改的
+        Log.e("wxw","000000");//在本地更改
     }
 
     @Override
